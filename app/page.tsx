@@ -1,5 +1,5 @@
-import { GameContainer } from '@/components/game-container'
+import { AppContainer } from '@/components/app-container'
 
 export default function Home() {
-  return <GameContainer />
+  return <AppContainer />
 }
